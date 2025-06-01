@@ -1,0 +1,27 @@
+mission_name,vehicle,company,location,date,time,description,tags
+Starship Flight 9,Super Heavy / Starship Prototype,SpaceX,"Launch Pad, Starbase, Boca Chica Texas , United States",2025-05-26,11:30 PM,"The booster, Booster 14-2, previously flew on Flight 7 and is set to perform a landing burn in the Gulf of Mexico instead of returning to the launch tower for a catch.","['Flight-Proven Booster', 'Test Flight']"
+Ax-4,Falcon 9,SpaceX,"LC-39A, Kennedy Space Center Florida , United States",2025-06-08,01:00 PM,Private crewed mission to the International Space Station.,['Crewed']
+Crew-11,Falcon 9,SpaceX,"Pad TBD, Cape Canaveral / KSC TBD Florida , United States",2025-07-31,,,"['Crewed', 'ISS Expedition']"
+SDA Tranche 1 Transport B,Falcon 9,SpaceX,"SLC-4E, Vandenberg SFB California , United States",2025-09-30,,The Space Development Agency (SDA) has named the TTL series the Proliferated Warfighter Space Architecture (PWSA). It is a constellation of satellites for global military...,['Series: SDA TTL']
+MTG-S1,Falcon 9,SpaceX,"Pad TBD, Cape Canaveral / KSC TBD Florida , United States",2025-09-30,,,[]
+TRACERS,Falcon 9,SpaceX,"SLC-4E, Vandenberg SFB California , United States",2025-09-30,,,['Earth Observation Satellite']
+IMAP,Falcon 9,SpaceX,"Pad TBD, Cape Canaveral / KSC TBD Florida , United States",2025-09-30,,,[]
+Griffin Mission 1,Falcon Heavy,SpaceX,"LC-39A, Kennedy Space Center Florida , United States",2025-11-30,,Demonstration flight of the Astrobotic Griffin lander and its engines. The mission will also launch the FLIP lunar rover.,"['Lunar Exploration', 'Lunar Lander', 'Lunar Rover', 'NASA Commercial Lunar Payload Services (CLPS)']"
+NASA Lunar Gateway PPE & HALO,Falcon Heavy,SpaceX,"LC-39A, Kennedy Space Center Florida , United States",2025-12-31,,,['Lunar Orbit']
+Project Kuiper,Falcon 9,SpaceX,"Pad TBD, United States TBD United States",2025-12-31,,,[]
+Project Kuiper,Falcon 9,SpaceX,"Pad TBD, United States TBD United States",2025-12-31,,,[]
+Project Kuiper,Falcon 9,SpaceX,"Pad TBD, United States TBD United States",2025-12-31,,,[]
+NAOS,Falcon 9,SpaceX,"SLC-4E, Vandenberg SFB California , United States",2025-12-31,,,['Earth Observation Satellite']
+CRS2 NG-22 (Cygnus),Falcon 9,SpaceX,"Pad TBD, Cape Canaveral / KSC TBD Florida , United States",2025-12-31,,,['ISS Cargo']
+Starship Orbital Flight 1,Starship,SpaceX,"Pad TBD, United States TBD United States",2025-12-31,,The first orbital flight of Starship (previously code-named BFR and ITS). Sub-orbital flight tests are currently ongoing.,['Vehicle Debut']
+Nusantara Lima,Falcon 9,SpaceX,"Pad TBD, Cape Canaveral / KSC TBD Florida , United States",2025-12-31,,"The Nusantara Lima mission, led by Indonesia's Pasifik Satelit Nusantara (PSN), involves launching a high-throughput telecommunications satellite to provide enhanced broadband...",['Communications Satellite']
+O3b mPower-5,Falcon 9,SpaceX,"Pad TBD, Cape Canaveral / KSC TBD Florida , United States",2025-12-31,,,[]
+USSF-70,Falcon Heavy,SpaceX,"LC-39A, Kennedy Space Center Florida , United States",2025-12-31,,,[]
+USSF-75,Falcon Heavy,SpaceX,"LC-39A, Kennedy Space Center Florida , United States",2025-12-31,,,[]
+Haven-1,Falcon 9,SpaceX,"LC-39A, Kennedy Space Center Florida , United States",2026-05-31,,First commercial space station module,[]
+Astrobotic-3 Mission,Falcon Heavy,SpaceX,"LC-36A, Cape Canaveral SFS Florida , United States",2026-12-31,,Third of the Astrobotic lunar missions,[]
+Nancy Grace Roman Space Telescope,Falcon Heavy,SpaceX,"LC-39A, Kennedy Space Center Florida , United States",2027-05-31,,,['Space Telescope']
+Superbird-9,Starship,SpaceX,"LC-39A, Kennedy Space Center Florida , United States",2027-06-30,,"Superbird-9 is a high throughput communication satellite aiming to deliver broadcast and broadband missions in Ku band primarily over Japan and Eastern Asia, in response to...",[]
+Gateway Logistics Services (Dragon XL),Falcon Heavy,SpaceX,"Pad TBD, Cape Canaveral / KSC TBD Florida , United States",2027-12-31,,,['Lunar Orbit']
+Dragonfly Mission,Falcon Heavy,SpaceX,"LC-36A, Cape Canaveral SFS Florida , United States",2028-07-31,,Dragonfly is NASA's 4th New Frontiers program mission that will send a robotic rotorcraft to fly within the atmosphere of Saturn's moon Titan to sample to determine surface...,[]
+Starlab,Starship,SpaceX,"LC-39A, Kennedy Space Center Florida , United States",2028-12-31,,Private space station developed by a joint venture between Voyager Space and Airbus.,['Space Station']
